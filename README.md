@@ -23,12 +23,7 @@ Créer et déployer une petite application web en **Flask (Python)** :
 - ☁️ Render ou VPS (hébergement)
 - 🌍 Terraform (infrastructure as code, optionnel)
 
----
 
-## 🗂️ Plan détaillé du projet
-
-### ✅ Étape 1 : Créer une mini app Flask
-Création d'une mini application Flask affichant :
 
 
 
