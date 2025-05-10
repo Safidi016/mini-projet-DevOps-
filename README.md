@@ -7,7 +7,6 @@
 Créer et déployer une petite application web en **Flask (Python)** :
 
 - Containerisée avec **Docker**
-- Déployée automatiquement grâce à **GitHub Actions (CI/CD)**
 - Hébergée gratuitement sur **Render** ou un **VPS**
 - Gérée par **Ansible** pour le déploiement automatisé
 - Optionnellement provisionnée avec **Terraform**
@@ -18,7 +17,6 @@ Créer et déployer une petite application web en **Flask (Python)** :
 
 - 🐍 Python (Flask)
 - 🐳 Docker & Docker Compose
-- 🤖 GitHub Actions (CI/CD)
 - ⚙️ Ansible (déploiement automatisé)
 - ☁️ Render ou VPS (hébergement)
 - 🌍 Terraform (infrastructure as code, optionnel)
