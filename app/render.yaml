@@ -1,0 +1,15 @@
+# Exported from Render on 2025-05-11T08:28:03Z
+services:
+- type: web
+  name: mini-projet-DevOps-
+  runtime: docker
+  repo: https://github.com/Safidi016/mini-projet-DevOps-
+  plan: free
+  envVars:
+  - key: Python
+    sync: false
+  region: oregon
+  dockerContext: .
+  dockerfilePath: ./Dockerfile
+  rootDir: pip install -r requirements.txt
+version: "1"
